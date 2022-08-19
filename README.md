@@ -1,3 +1,4 @@
+<!-- 
 <p>###############################</br>
 #### Welcome to FelixChat! ####</br>
 ###############################</p>
@@ -13,3 +14,8 @@ Chat Commands:</br>
 .mute      (Mute user messages)</br>
 .quit      (Turn off connection)</br>
 -------------------------------------------</p>
+-->
+
+
+<img src="https://github.com/LuMiFel/ChatServer/blob/main/ScreenShot/Welcome.png" width=300px>
+<img src="https://github.com/LuMiFel/ChatServer/blob/main/ScreenShot/Color.png" width=400px>
